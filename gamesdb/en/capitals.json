@@ -1,0 +1,90 @@
+[
+    {
+        "type": "Algeria",
+        "answers": ["Algiers"]
+    },
+    {
+      "type": "Andorra",
+        "answers": ["Andorra la Vella"]
+    },
+    {
+      "type": "Argentina",
+        "answers": ["Buenos Aires"]
+    },
+    {
+      "type": "Australia",
+        "answers": ["Canberra"]
+    },
+    {
+"type": "Austria",
+        "answers": ["Vienna"]
+    },
+    {
+"type": "Azerbaijan",
+        "answers": ["Baku"]
+    },
+    {
+"type": "Bangladesh",
+        "answers": ["Dhaka"]
+    },
+    {
+"type": "Belgium",
+        "answers": ["Brussels"]
+    },
+    {
+"type": "Bulgaria",
+        "answers": ["Sofia"]
+    },
+    {
+"type": "Cameroon",
+        "answers": ["Yaoundé"]
+    },
+    {
+"type": "Canada",
+        "answers": ["Ottawa"]
+    },
+    {
+"type": "China",
+        "answers": ["Beijing"]
+    },
+    {
+"type": "Colombia",
+        "answers": ["Bogota"]
+    },
+    {
+"type": "Comoros",
+        "answers": ["Moroni"]
+    },
+    {
+"type": "Cuba",
+        "answers": ["Havana"]
+    },
+    {
+"type": "Cyprus",
+        "answers": ["Nicosia"]
+    },
+    {
+"type": "Denmark",
+        "answers": ["Copenhagen"]
+    },
+    {
+"type": "Egypt",
+        "answers": ["Cairo"]
+    },
+    {
+"type": "Germany",
+        "answers": ["Berlin"]
+    },
+    {
+"type": "Greece",
+        "answers": ["Athens"]
+    },
+    {
+"type": "India",
+        "answers": ["Delhi"]
+    },
+    {
+"type": "Indonesia",
+        "answers": ["Jakarta"]
+    }
+]

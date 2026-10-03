@@ -1,0 +1,106 @@
+[
+    {
+        "type": "about",
+        "answers": ["5"]
+    },
+    {
+        "type": "all",
+        "answers": ["3"]
+    },
+    {
+        "type": "also",
+        "answers": ["4"]
+    },
+    {
+        "type": "and",
+        "answers": ["3"]
+    },
+    {
+        "type": "because",
+        "answers": ["7"]
+    },
+    {
+        "type": "but",
+        "answers": ["3"]
+    },
+    {
+        "type": "can",
+        "answers": ["3"]
+    },
+    {
+        "type": "come",
+        "answers": ["4"]
+    },
+    {
+        "type": "could",
+        "answers": ["5"]
+    },
+    {
+        "type": "day",
+        "answers": ["3"]
+    },
+    {
+        "type": "even",
+        "answers": ["4"]
+    },
+    {
+        "type": "find",
+        "answers": ["4"]
+    },
+    {
+        "type": "JavaScript",
+        "answers": ["10"]
+    },
+    {
+        "type": "give",
+        "answers": ["4"]
+    },
+    {
+        "type": "get",
+        "answers": ["3"]
+    },
+    {
+        "type": "many",
+        "answers": ["4"]
+    },
+    {
+        "type": "Japan",
+        "answers": ["5"]
+    },
+    {
+        "type": "mony",
+        "answers": ["4"]
+    },
+    {
+        "type": "more",
+        "answers": ["4"]
+    },
+    {
+        "type": "people",
+        "answers": ["6"]
+    },
+    {
+        "type": "say",
+        "answers": ["3"]
+    },
+    {
+        "type": "some",
+        "answers": ["4"]
+    },
+    {
+        "type": "take",
+        "answers": ["4"]
+    },
+    {
+        "type": "that",
+        "answers": ["4"]
+    },
+	{
+        "type": "radar",
+        "answers": ["5"]
+    },
+	{
+        "type": "think",
+        "answers": ["5"]
+    }
+]

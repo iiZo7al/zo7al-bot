@@ -1,0 +1,168 @@
+{
+    "ar": {
+        "lang": "> **تم تحديث اللغة الى اللغة العربية 📚**",
+        "permErr": "> **انت لا تملك صلاحية تعديل في ذلك 🎛️**",
+        "points1": "> **🎲 نقاطك :**",
+            "match": "هناك جولة اخرى بالفعل",
+            "fixed": "> **تم إصلاح المشاكل في خادمك ⚙️**",
+            "points": "نقاطك الآن",
+            "err": "انتهى الوقت ، لم يفز أحد..",
+            "fkk": {
+                "t1": "**لديك 15 ثانية لتفكيك هذه الجملة** ..",
+                "t2": "فكك هذه الجملة",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "math": {
+                "t1": "**لديك 15 ثانية لجمع هذه الأرقام**..",
+                "t2": "إجمع هذه الأرقام",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "translate": {
+                "t1": "**لديك 15 ثانية لترجمة الكلمة**..",
+                "t2": "ترجم هذه الكلمة",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "type": {
+                "t1": "**لديك 15 ثانية لكتابة الجملة**..",
+                "t2": "اكتب هذه الجملة",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "plural": {
+                "t1": "**لديك 15 ثانية لإيجاد جمع هذه الكلمة**..",
+                "t2": "ماهو جمع هذه الكلمة ؟",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "single": {
+                "t1": "**لديك 15 ثانية لإيجاد مفرد هذه الكلمة**..",
+                "t2": "ماهو مفرد هذه الكلمة ؟",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "letter": {
+                "t1": "**لديك 15 ثانية لإيجاد عدد احرف هذه الكلمة**..",
+                "t2": "ما عدد احرف هذه الكلمة ؟",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "capitals": {
+                "t1": "**لديك 15 ثانية لكتابة اسم عاصمة هذه الدولة**..",
+                "t2": "جد عاصمة هذه الدولة",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "combine": {
+                "t1": "**لديك 15 ثانية لشبك هذه الأحرف**..",
+                "t2": "اشبك الأحرف التالية",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "missing": {
+                "t1": "**لديك 15 ثانية لمعرفة الحرف المفقود**..",
+                "t2": "ماهو الحرف المفقود ؟",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "reverse": {
+                "t1": "**لديك 15 ثانية لعكس الكلمة**..",
+                "t2": "اعكس هذه الكلمة",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "numbers": {
+                "t1": "**لديك 15 ثانية لكتابة الرقم**..",
+                "t2": "اكتب هذا الرقم",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "opposite": {
+                "t1": "**لديك 15 ثانية لايجاد مضاد الكلمة**..",
+                "t2": "ماهو مضاد الكلمة ؟",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "emojis": {
+                "t1": "**لديك 15 ثانية لايجاد الايموجي الصحيح**..",
+                "t2": "اكتب هذا الايموجي",
+                "t3": "مبروك! الفائز هو 🎉"
+            },
+            "help": {
+                "info1": "قائمة المساعدة الخاصة بالبوت",
+                "info2": "لمعرفة سرعة البوت",
+                "info3": "لإظهار الملف الشخصي",
+                "info4": "لإظهار قائمة المتصدرين حول العالم",
+                "game1": "لعبة أعلام",
+                "game2": "لعبة كت تويت",
+                "game3": "لعبة تفكيك الجمل",
+                "game4": "لعبة عدد حروف الكلمة",
+                "game5": "لعبة رياضيات",
+                "game6": "لعبة ايجاد جمع الكلمات",
+                "game7": "لعبة ايجاد مفرد الكلمات",
+                "game8": "لعبة ترجمة",
+                "game9": "لعبة أسرع",
+                "mod1": "لاصلاح المشاكل في الخادم",
+                "mod2": "لتغيير لغة البوت",
+                "err": "> **الرجاء فتح الخاص لإرسال قائمة الأوامر 📮**",
+                "dm": "> **سيتم إرسال قائمة الأوامر في خاصك 🗒️**"
+            }
+    },
+    "en": {
+        "lang": "> **The language has been updated to English 📚**",
+        "permErr": "> **You do not have the authority to modify it 🎛️**",
+        "points1": "> **🎲 Your Points :**",
+            "match": "There is another round already",
+            "fixed": "> **Problems with your server are fixed ⚙️**",
+            "points": "Your points now",
+            "err": "Time's up, no winner 🤦‍♂️..",
+            "fkk": {
+                "t1": "**You have 15 seconds to disassemble this sentence 🚶‍♂️..**",
+                "t2": "Decode this sentence",
+                "t3": "managed to dismantle the sentence in time! 🎉"
+            },
+            "math": {
+                "t1": "**You only have 15 seconds to add these numbers 🚶‍♂️..**",
+                "t2": "Add up these numbers",
+                "t3": "managed to solve the equation in time! 🎉"
+            },
+            "translate": {
+                "t1": "**You have 15 seconds to translate the word**..",
+                "t2": "Translate this word",
+                "t3": "managed to translate the word in time! 🎉"
+            },
+            "type": {
+                "t1": "**You have 15 seconds to type the sentence**..",
+                "t2": "Write this sentence",
+                "t3": "managed to write the sentence at the right time! 🎉"
+            },
+            "plural": {
+                "t1": "**You have 15 seconds to find the plural of this word**..",
+                "t2": "What is the plural of this word?",
+                "t3": "find the plural of the word at the right time ! 🎉"
+            },
+            "single": {
+                "t1": "**You have 15 seconds to find the singular of this word**..",
+                "t2": "What is the singular of this word?",
+                "t3": "managed to find a single word at the right time! 🎉"
+            },
+            "letter": {
+                "t1": "**You have 15 seconds to find the number of letters in this word**..",
+                "t2": "How many letters is this word?",
+                "t3": "find the number of letters of a word at the right time ! 🎉"
+            },
+            "capitals": {
+                "t1": "**You have 15 seconds to type the name of the capital of this country**..",
+                "t2": "Find the capital of this country",
+                "t3": "managed to find the capital of the country in time ! 🎉"
+            },
+            "help": {
+                "info1": "Bot help menu",
+                "info2": "To find out the speed of the bot",
+                "info3": "To show profile",
+                "info4": "To show the leaderboard around the world",
+                "game1": "Capitals game",
+                "game2": "CutTweet game [Only Arabic]",
+                "game3": "Sentence unraveling game",
+                "game4": "Word letter number game",
+                "game5": "Math game",
+                "game6": "Plural game [Only Arabic]",
+                "game7": "Single game [Only Arabic]",
+                "game8": "Translation game [Only Arabic]",
+                "game9": "Faster game",
+                "mod1": "To fix server problems",
+                "mod2": "Change the language of the bot",
+                "err": "> **Please open private to send a list of commands 📮**",
+                "dm": "> **A list of commands will be sent to you 🗒️**"
+            }
+    }
+}

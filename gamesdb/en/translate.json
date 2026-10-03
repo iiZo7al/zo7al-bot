@@ -1,0 +1,26 @@
+[
+    {
+        "type": "اسد",
+        "answers": ["lion","Lion","LION"]
+    },
+    {
+      "type": "قطة",
+        "answers": ["cat","Cat"]
+    },
+    {
+      "type": "ball",
+        "answers": ["كرة","كرات"]
+    },
+    {
+      "type": "hacker",
+        "answers": ["مخترق","المخترق"]
+    },
+    {
+    "type": "leg",
+        "answers": ["رجل","رجلين"]
+    },
+    {
+    "type": "يد",
+        "answers": ["arm","Arm"]
+    }
+]

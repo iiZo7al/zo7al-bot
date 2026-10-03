@@ -1,0 +1,102 @@
+[
+    {
+        "type": "Brazil",
+        "answers": ["B r a z i l"]
+    },
+    {
+        "type": "Ljubljana",
+        "answers": ["L j u b l j a n a"]
+    },
+    {
+        "type": "Saudi Arabia",
+        "answers": ["S a u d i A r a b i a"]
+    },
+    {
+        "type": "easy not difficult",
+        "answers": ["e a s y n o t d i f f i c u l t"]
+    },
+    {
+        "type": "dismantling",
+        "answers": ["d i s m a n t l i n g"]
+    },
+    {
+        "type": "no name",
+        "answers": ["n o n a m e"]
+    },
+    {
+        "type": "How are you",
+        "answers": ["H o w a r e y o u"]
+    },
+    {
+        "type": "Spain",
+        "answers": ["S p a i n"]
+    },
+    {
+        "type": "Madrid",
+        "answers": ["M a d r i d"]
+    },
+    {
+        "type": "Ohio",
+        "answers": ["O h i o"]
+    },
+    {
+        "type": "Comoros",
+        "answers": ["C o m o r o s"]
+    },
+    {
+        "type": "the end",
+        "answers": ["t h e e n d"]
+    },
+    {
+        "type": "store",
+        "answers": ["s t o r e"]
+    },
+    {
+        "type": "javascript",
+        "answers": ["j a v a s c r i p t"]
+    },
+    {
+        "type": "amazon",
+        "answers": ["a m a z o n"]
+    },
+    {
+        "type": "computer",
+        "answers": ["c o m p u t e r"]
+    },
+    {
+        "type": "News",
+        "answers": ["N e w s"]
+    },
+    {
+        "type": "earth",
+        "answers": ["e a r t h"]
+    },
+    {
+        "type": "Japan",
+        "answers": ["J a p a n"]
+    },
+    {
+        "type": "Irene",
+        "answers": ["I r e n e"]
+    },
+    {
+        "type": "kaneki",
+        "answers": ["k a n e k i"]
+    },
+    {
+        "type": "Huawei",
+        "answers": ["H u a w e i"]
+    },
+    {
+        "type": "gate",
+        "answers": ["g a t e"]
+    },
+    {
+        "type": "School",
+        "answers": ["s c h o o l"]
+    },
+	{
+        "type": "radar",
+        "answers": ["r a d a r"]
+    }
+]
