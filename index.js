@@ -17,6 +17,8 @@ function createClient() {
 }
 async function start() {
   if (!config.token) throw new Error('Set DISCORD_TOKEN in .env (legacy environment variable token is also supported).');
+  const healthPort = process.env.PORT ? Number(process.env.PORT) : null;
+  if (healthPort !== null && (!Number.isInteger(healthPort) || healthPort < 0 || healthPort > 65535)) throw new Error('PORT must be a valid port number.');
   const client = createClient();
   try {
     await client.store.init();
@@ -25,13 +27,11 @@ async function start() {
     await client.login(config.token);
   } catch (error) { client.destroy(); await client.store.close(); throw error; }
   let health;
-  if (process.env.PORT) {
-    const port = Number(process.env.PORT);
-    if (!Number.isInteger(port) || port < 0 || port > 65535) throw new Error('PORT must be a valid port number.');
+  if (healthPort !== null) {
     health = require('node:http').createServer((req, res) => {
       res.writeHead(client.isReady() ? 200 : 503, { 'Content-Type': 'application/json' });
       res.end(JSON.stringify({ name:'Zo7al', ready:client.isReady() }));
-    }).listen(port, '0.0.0.0');
+    }).listen(healthPort, '0.0.0.0');
     health.on('error', error => console.error('Zo7al • Health endpoint:', error.message));
   }
   let closing = false;
