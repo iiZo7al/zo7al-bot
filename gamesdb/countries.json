@@ -1,0 +1,385 @@
+[
+  {
+    "code": "sa",
+    "ar": "السعودية",
+    "en": "Saudi Arabia",
+    "capitalAr": "الرياض",
+    "capitalEn": "Riyadh",
+    "aliases": [
+      "المملكة العربية السعودية",
+      "Saudi"
+    ],
+    "image": "assets/flags/sa.png"
+  },
+  {
+    "code": "ae",
+    "ar": "الإمارات",
+    "en": "United Arab Emirates",
+    "capitalAr": "أبوظبي",
+    "capitalEn": "Abu Dhabi",
+    "aliases": [
+      "الامارات العربية المتحدة",
+      "الإمارات العربية المتحدة",
+      "UAE"
+    ],
+    "image": "assets/flags/ae.png"
+  },
+  {
+    "code": "kw",
+    "ar": "الكويت",
+    "en": "Kuwait",
+    "capitalAr": "الكويت",
+    "capitalEn": "Kuwait City",
+    "aliases": [],
+    "image": "assets/flags/kw.png"
+  },
+  {
+    "code": "qa",
+    "ar": "قطر",
+    "en": "Qatar",
+    "capitalAr": "الدوحة",
+    "capitalEn": "Doha",
+    "aliases": [],
+    "image": "assets/flags/qa.png"
+  },
+  {
+    "code": "bh",
+    "ar": "البحرين",
+    "en": "Bahrain",
+    "capitalAr": "المنامة",
+    "capitalEn": "Manama",
+    "aliases": [],
+    "image": "assets/flags/bh.png"
+  },
+  {
+    "code": "om",
+    "ar": "عمان",
+    "en": "Oman",
+    "capitalAr": "مسقط",
+    "capitalEn": "Muscat",
+    "aliases": [],
+    "image": "assets/flags/om.png"
+  },
+  {
+    "code": "eg",
+    "ar": "مصر",
+    "en": "Egypt",
+    "capitalAr": "القاهرة",
+    "capitalEn": "Cairo",
+    "aliases": [],
+    "image": "assets/flags/eg.png"
+  },
+  {
+    "code": "jo",
+    "ar": "الأردن",
+    "en": "Jordan",
+    "capitalAr": "عمان",
+    "capitalEn": "Amman",
+    "aliases": [],
+    "image": "assets/flags/jo.png"
+  },
+  {
+    "code": "lb",
+    "ar": "لبنان",
+    "en": "Lebanon",
+    "capitalAr": "بيروت",
+    "capitalEn": "Beirut",
+    "aliases": [],
+    "image": "assets/flags/lb.png"
+  },
+  {
+    "code": "iq",
+    "ar": "العراق",
+    "en": "Iraq",
+    "capitalAr": "بغداد",
+    "capitalEn": "Baghdad",
+    "aliases": [],
+    "image": "assets/flags/iq.png"
+  },
+  {
+    "code": "ma",
+    "ar": "المغرب",
+    "en": "Morocco",
+    "capitalAr": "الرباط",
+    "capitalEn": "Rabat",
+    "aliases": [],
+    "image": "assets/flags/ma.png"
+  },
+  {
+    "code": "dz",
+    "ar": "الجزائر",
+    "en": "Algeria",
+    "capitalAr": "الجزائر",
+    "capitalEn": "Algiers",
+    "aliases": [],
+    "image": "assets/flags/dz.png"
+  },
+  {
+    "code": "tn",
+    "ar": "تونس",
+    "en": "Tunisia",
+    "capitalAr": "تونس",
+    "capitalEn": "Tunis",
+    "aliases": [],
+    "image": "assets/flags/tn.png"
+  },
+  {
+    "code": "ly",
+    "ar": "ليبيا",
+    "en": "Libya",
+    "capitalAr": "طرابلس",
+    "capitalEn": "Tripoli",
+    "aliases": [],
+    "image": "assets/flags/ly.png"
+  },
+  {
+    "code": "sd",
+    "ar": "السودان",
+    "en": "Sudan",
+    "capitalAr": "الخرطوم",
+    "capitalEn": "Khartoum",
+    "aliases": [],
+    "image": "assets/flags/sd.png"
+  },
+  {
+    "code": "ye",
+    "ar": "اليمن",
+    "en": "Yemen",
+    "capitalAr": "صنعاء",
+    "capitalEn": "Sanaa",
+    "aliases": [],
+    "image": "assets/flags/ye.png"
+  },
+  {
+    "code": "fr",
+    "ar": "فرنسا",
+    "en": "France",
+    "capitalAr": "باريس",
+    "capitalEn": "Paris",
+    "aliases": [],
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "code": "de",
+    "ar": "ألمانيا",
+    "en": "Germany",
+    "capitalAr": "برلين",
+    "capitalEn": "Berlin",
+    "aliases": [],
+    "image": "assets/flags/de.png"
+  },
+  {
+    "code": "es",
+    "ar": "إسبانيا",
+    "en": "Spain",
+    "capitalAr": "مدريد",
+    "capitalEn": "Madrid",
+    "aliases": [],
+    "image": "assets/flags/es.png"
+  },
+  {
+    "code": "it",
+    "ar": "إيطاليا",
+    "en": "Italy",
+    "capitalAr": "روما",
+    "capitalEn": "Rome",
+    "aliases": [],
+    "image": "assets/flags/it.png"
+  },
+  {
+    "code": "gb",
+    "ar": "المملكة المتحدة",
+    "en": "United Kingdom",
+    "capitalAr": "لندن",
+    "capitalEn": "London",
+    "aliases": [
+      "بريطانيا",
+      "إنجلترا",
+      "UK",
+      "Britain"
+    ],
+    "image": "assets/flags/gb.png"
+  },
+  {
+    "code": "us",
+    "ar": "الولايات المتحدة",
+    "en": "United States",
+    "capitalAr": "واشنطن",
+    "capitalEn": "Washington, D.C.",
+    "aliases": [
+      "امريكا",
+      "أمريكا",
+      "الولايات المتحدة الأمريكية",
+      "USA",
+      "America"
+    ],
+    "image": "assets/flags/us.png"
+  },
+  {
+    "code": "ca",
+    "ar": "كندا",
+    "en": "Canada",
+    "capitalAr": "أوتاوا",
+    "capitalEn": "Ottawa",
+    "aliases": [],
+    "image": "assets/flags/ca.png"
+  },
+  {
+    "code": "br",
+    "ar": "البرازيل",
+    "en": "Brazil",
+    "capitalAr": "برازيليا",
+    "capitalEn": "Brasilia",
+    "aliases": [],
+    "image": "assets/flags/br.png"
+  },
+  {
+    "code": "ar",
+    "ar": "الأرجنتين",
+    "en": "Argentina",
+    "capitalAr": "بوينس آيرس",
+    "capitalEn": "Buenos Aires",
+    "aliases": [],
+    "image": "assets/flags/ar.png"
+  },
+  {
+    "code": "jp",
+    "ar": "اليابان",
+    "en": "Japan",
+    "capitalAr": "طوكيو",
+    "capitalEn": "Tokyo",
+    "aliases": [],
+    "image": "assets/flags/jp.png"
+  },
+  {
+    "code": "cn",
+    "ar": "الصين",
+    "en": "China",
+    "capitalAr": "بكين",
+    "capitalEn": "Beijing",
+    "aliases": [],
+    "image": "assets/flags/cn.png"
+  },
+  {
+    "code": "kr",
+    "ar": "كوريا الجنوبية",
+    "en": "South Korea",
+    "capitalAr": "سيول",
+    "capitalEn": "Seoul",
+    "aliases": [
+      "كوريا",
+      "Korea"
+    ],
+    "image": "assets/flags/kr.png"
+  },
+  {
+    "code": "in",
+    "ar": "الهند",
+    "en": "India",
+    "capitalAr": "نيودلهي",
+    "capitalEn": "New Delhi",
+    "aliases": [],
+    "image": "assets/flags/in.png"
+  },
+  {
+    "code": "au",
+    "ar": "أستراليا",
+    "en": "Australia",
+    "capitalAr": "كانبيرا",
+    "capitalEn": "Canberra",
+    "aliases": [],
+    "image": "assets/flags/au.png"
+  },
+  {
+    "code": "tr",
+    "ar": "تركيا",
+    "en": "Turkey",
+    "capitalAr": "أنقرة",
+    "capitalEn": "Ankara",
+    "aliases": [
+      "Türkiye"
+    ],
+    "image": "assets/flags/tr.png"
+  },
+  {
+    "code": "gr",
+    "ar": "اليونان",
+    "en": "Greece",
+    "capitalAr": "أثينا",
+    "capitalEn": "Athens",
+    "aliases": [],
+    "image": "assets/flags/gr.png"
+  },
+  {
+    "code": "ch",
+    "ar": "سويسرا",
+    "en": "Switzerland",
+    "capitalAr": "برن",
+    "capitalEn": "Bern",
+    "aliases": [],
+    "image": "assets/flags/ch.png"
+  },
+  {
+    "code": "se",
+    "ar": "السويد",
+    "en": "Sweden",
+    "capitalAr": "ستوكهولم",
+    "capitalEn": "Stockholm",
+    "aliases": [],
+    "image": "assets/flags/se.png"
+  },
+  {
+    "code": "no",
+    "ar": "النرويج",
+    "en": "Norway",
+    "capitalAr": "أوسلو",
+    "capitalEn": "Oslo",
+    "aliases": [],
+    "image": "assets/flags/no.png"
+  },
+  {
+    "code": "nl",
+    "ar": "هولندا",
+    "en": "Netherlands",
+    "capitalAr": "أمستردام",
+    "capitalEn": "Amsterdam",
+    "aliases": [],
+    "image": "assets/flags/nl.png"
+  },
+  {
+    "code": "pt",
+    "ar": "البرتغال",
+    "en": "Portugal",
+    "capitalAr": "لشبونة",
+    "capitalEn": "Lisbon",
+    "aliases": [],
+    "image": "assets/flags/pt.png"
+  },
+  {
+    "code": "mx",
+    "ar": "المكسيك",
+    "en": "Mexico",
+    "capitalAr": "مكسيكو",
+    "capitalEn": "Mexico City",
+    "aliases": [],
+    "image": "assets/flags/mx.png"
+  },
+  {
+    "code": "pk",
+    "ar": "باكستان",
+    "en": "Pakistan",
+    "capitalAr": "إسلام آباد",
+    "capitalEn": "Islamabad",
+    "aliases": [],
+    "image": "assets/flags/pk.png"
+  },
+  {
+    "code": "id",
+    "ar": "إندونيسيا",
+    "en": "Indonesia",
+    "capitalAr": "جاكرتا",
+    "capitalEn": "Jakarta",
+    "aliases": [],
+    "image": "assets/flags/id.png"
+  }
+]

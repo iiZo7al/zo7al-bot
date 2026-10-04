@@ -1,0 +1,660 @@
+{
+  "questions": [
+    {
+      "id": "real",
+      "ar": "هل الشخصية حقيقية؟",
+      "en": "Is your character a real person?"
+    },
+    {
+      "id": "male",
+      "ar": "هل الشخصية ذكر؟",
+      "en": "Is your character male?"
+    },
+    {
+      "id": "athlete",
+      "ar": "هل الشخصية رياضي؟",
+      "en": "Is your character an athlete?"
+    },
+    {
+      "id": "football",
+      "ar": "هل الشخصية لاعب كرة قدم؟",
+      "en": "Does your character play football?"
+    },
+    {
+      "id": "creator",
+      "ar": "هل الشخصية صانع محتوى على الإنترنت؟",
+      "en": "Is your character an online content creator?"
+    },
+    {
+      "id": "actor",
+      "ar": "هل الشخصية ممثل؟",
+      "en": "Is your character an actor?"
+    },
+    {
+      "id": "singer",
+      "ar": "هل الشخصية مغنٍ؟",
+      "en": "Is your character a singer?"
+    },
+    {
+      "id": "business",
+      "ar": "هل الشخصية معروفة في مجال التقنية أو الأعمال؟",
+      "en": "Is your character known for technology or business?"
+    },
+    {
+      "id": "arab",
+      "ar": "هل الشخصية عربية؟",
+      "en": "Is your character Arab?"
+    },
+    {
+      "id": "american",
+      "ar": "هل الشخصية أمريكية؟",
+      "en": "Is your character American?"
+    },
+    {
+      "id": "asian",
+      "ar": "هل الشخصية آسيوية؟",
+      "en": "Is your character Asian?"
+    },
+    {
+      "id": "british",
+      "ar": "هل الشخصية بريطانية؟",
+      "en": "Is your character British?"
+    },
+    {
+      "id": "portuguese",
+      "ar": "هل الشخصية برتغالية؟",
+      "en": "Is your character Portuguese?"
+    },
+    {
+      "id": "argentinian",
+      "ar": "هل الشخصية أرجنتينية؟",
+      "en": "Is your character Argentine?"
+    },
+    {
+      "id": "brazilian",
+      "ar": "هل الشخصية برازيلية؟",
+      "en": "Is your character Brazilian?"
+    },
+    {
+      "id": "french",
+      "ar": "هل الشخصية فرنسية؟",
+      "en": "Is your character French?"
+    },
+    {
+      "id": "deceased",
+      "ar": "هل الشخصية متوفاة؟",
+      "en": "Has your character passed away?"
+    },
+    {
+      "id": "basketball",
+      "ar": "هل الشخصية لاعب كرة سلة؟",
+      "en": "Does your character play basketball?"
+    },
+    {
+      "id": "marvel",
+      "ar": "هل الشخصية من مارفل؟",
+      "en": "Is your character from Marvel?"
+    },
+    {
+      "id": "dc",
+      "ar": "هل الشخصية من عالم دي سي؟",
+      "en": "Is your character from DC?"
+    },
+    {
+      "id": "anime",
+      "ar": "هل الشخصية من أنمي؟",
+      "en": "Is your character from anime?"
+    },
+    {
+      "id": "game",
+      "ar": "هل الشخصية من لعبة فيديو؟",
+      "en": "Is your character from a video game?"
+    },
+    {
+      "id": "animal",
+      "ar": "هل الشخصية على شكل حيوان؟",
+      "en": "Does your character look like an animal?"
+    },
+    {
+      "id": "yellow",
+      "ar": "هل يغلب اللون الأصفر على الشخصية؟",
+      "en": "Is your character mostly yellow?"
+    },
+    {
+      "id": "ninja",
+      "ar": "هل الشخصية نينجا؟",
+      "en": "Is your character a ninja?"
+    },
+    {
+      "id": "pirate",
+      "ar": "هل الشخصية قرصان؟",
+      "en": "Is your character a pirate?"
+    },
+    {
+      "id": "plumber",
+      "ar": "هل الشخصية سباك؟",
+      "en": "Is your character a plumber?"
+    },
+    {
+      "id": "blue",
+      "ar": "هل الشخصية زرقاء؟",
+      "en": "Is your character blue?"
+    },
+    {
+      "id": "magic",
+      "ar": "هل الشخصية تستخدم السحر؟",
+      "en": "Does your character use magic?"
+    },
+    {
+      "id": "robot",
+      "ar": "هل الشخصية روبوت؟",
+      "en": "Is your character a robot?"
+    },
+    {
+      "id": "superhero",
+      "ar": "هل الشخصية بطل خارق؟",
+      "en": "Is your character a superhero?"
+    },
+    {
+      "id": "million",
+      "ar": "هل يقدم مقاطع مسابقات وجوائز كبيرة؟",
+      "en": "Does your character make large prize challenge videos?"
+    },
+    {
+      "id": "swedish",
+      "ar": "هل الشخصية سويدية؟",
+      "en": "Is your character Swedish?"
+    },
+    {
+      "id": "wrestler",
+      "ar": "هل الشخصية مصارع؟",
+      "en": "Is your character a wrestler?"
+    },
+    {
+      "id": "scientist",
+      "ar": "هل الشخصية عالم؟",
+      "en": "Is your character a scientist?"
+    },
+    {
+      "id": "tesla",
+      "ar": "هل الشخصية مرتبطة بتسلا؟",
+      "en": "Is your character associated with Tesla?"
+    },
+    {
+      "id": "facebook",
+      "ar": "هل الشخصية مرتبطة بفيسبوك؟",
+      "en": "Is your character associated with Facebook?"
+    },
+    {
+      "id": "apple",
+      "ar": "هل الشخصية مرتبطة بأبل؟",
+      "en": "Is your character associated with Apple?"
+    },
+    {
+      "id": "egyptian",
+      "ar": "هل الشخصية مصرية؟",
+      "en": "Is your character Egyptian?"
+    },
+    {
+      "id": "saudi",
+      "ar": "هل الشخصية سعودية؟",
+      "en": "Is your character Saudi?"
+    },
+    {
+      "id": "minecraft",
+      "ar": "هل الشخصية من ماينكرافت؟",
+      "en": "Is your character from Minecraft?"
+    },
+    {
+      "id": "red",
+      "ar": "هل يرتدي غالبًا الأحمر؟",
+      "en": "Does your character often wear red?"
+    },
+    {
+      "id": "snow",
+      "ar": "هل الشخصية مرتبطة بالثلج؟",
+      "en": "Is your character associated with snow?"
+    }
+  ],
+  "characters": [
+    {
+      "id": "0",
+      "ar": "كريستيانو رونالدو",
+      "en": "Cristiano Ronaldo",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "football",
+        "portuguese"
+      ]
+    },
+    {
+      "id": "1",
+      "ar": "ليونيل ميسي",
+      "en": "Lionel Messi",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "football",
+        "argentinian"
+      ]
+    },
+    {
+      "id": "2",
+      "ar": "محمد صلاح",
+      "en": "Mohamed Salah",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "football",
+        "arab",
+        "egyptian"
+      ]
+    },
+    {
+      "id": "3",
+      "ar": "نيمار",
+      "en": "Neymar",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "football",
+        "brazilian"
+      ]
+    },
+    {
+      "id": "4",
+      "ar": "كيليان مبابي",
+      "en": "Kylian Mbappe",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "football",
+        "french"
+      ]
+    },
+    {
+      "id": "5",
+      "ar": "مستر بيست",
+      "en": "MrBeast",
+      "traits": [
+        "real",
+        "male",
+        "creator",
+        "american",
+        "million"
+      ]
+    },
+    {
+      "id": "6",
+      "ar": "بيو دي باي",
+      "en": "PewDiePie",
+      "traits": [
+        "real",
+        "male",
+        "creator",
+        "swedish"
+      ]
+    },
+    {
+      "id": "7",
+      "ar": "أبو فلة",
+      "en": "AboFlah",
+      "traits": [
+        "real",
+        "male",
+        "creator",
+        "arab"
+      ]
+    },
+    {
+      "id": "8",
+      "ar": "بندريتا",
+      "en": "BanderitaX",
+      "traits": [
+        "real",
+        "male",
+        "creator",
+        "arab",
+        "saudi"
+      ]
+    },
+    {
+      "id": "9",
+      "ar": "دواين جونسون",
+      "en": "Dwayne Johnson",
+      "traits": [
+        "real",
+        "male",
+        "actor",
+        "american",
+        "wrestler"
+      ]
+    },
+    {
+      "id": "10",
+      "ar": "جاكي شان",
+      "en": "Jackie Chan",
+      "traits": [
+        "real",
+        "male",
+        "actor",
+        "asian"
+      ]
+    },
+    {
+      "id": "11",
+      "ar": "ويل سميث",
+      "en": "Will Smith",
+      "traits": [
+        "real",
+        "male",
+        "actor",
+        "american"
+      ]
+    },
+    {
+      "id": "12",
+      "ar": "توم كروز",
+      "en": "Tom Cruise",
+      "traits": [
+        "real",
+        "male",
+        "actor",
+        "american"
+      ]
+    },
+    {
+      "id": "13",
+      "ar": "شاه روخ خان",
+      "en": "Shah Rukh Khan",
+      "traits": [
+        "real",
+        "male",
+        "actor",
+        "asian"
+      ]
+    },
+    {
+      "id": "14",
+      "ar": "بيلي إيليش",
+      "en": "Billie Eilish",
+      "traits": [
+        "real",
+        "singer",
+        "american"
+      ]
+    },
+    {
+      "id": "15",
+      "ar": "تايلور سويفت",
+      "en": "Taylor Swift",
+      "traits": [
+        "real",
+        "singer",
+        "american"
+      ]
+    },
+    {
+      "id": "16",
+      "ar": "أديل",
+      "en": "Adele",
+      "traits": [
+        "real",
+        "singer",
+        "british"
+      ]
+    },
+    {
+      "id": "17",
+      "ar": "إيلون ماسك",
+      "en": "Elon Musk",
+      "traits": [
+        "real",
+        "male",
+        "business",
+        "tesla"
+      ]
+    },
+    {
+      "id": "18",
+      "ar": "مارك زوكربيرغ",
+      "en": "Mark Zuckerberg",
+      "traits": [
+        "real",
+        "male",
+        "business",
+        "american",
+        "facebook"
+      ]
+    },
+    {
+      "id": "19",
+      "ar": "ستيف جوبز",
+      "en": "Steve Jobs",
+      "traits": [
+        "real",
+        "male",
+        "business",
+        "american",
+        "deceased",
+        "apple"
+      ]
+    },
+    {
+      "id": "20",
+      "ar": "ألبرت أينشتاين",
+      "en": "Albert Einstein",
+      "traits": [
+        "real",
+        "male",
+        "scientist",
+        "deceased"
+      ]
+    },
+    {
+      "id": "21",
+      "ar": "مايكل جوردن",
+      "en": "Michael Jordan",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "american",
+        "basketball"
+      ]
+    },
+    {
+      "id": "22",
+      "ar": "ليبرون جيمس",
+      "en": "LeBron James",
+      "traits": [
+        "real",
+        "male",
+        "athlete",
+        "american",
+        "basketball"
+      ]
+    },
+    {
+      "id": "23",
+      "ar": "سبونج بوب",
+      "en": "SpongeBob",
+      "traits": [
+        "male",
+        "yellow"
+      ]
+    },
+    {
+      "id": "24",
+      "ar": "بيكاتشو",
+      "en": "Pikachu",
+      "traits": [
+        "anime",
+        "game",
+        "animal",
+        "yellow"
+      ]
+    },
+    {
+      "id": "25",
+      "ar": "ناروتو",
+      "en": "Naruto",
+      "traits": [
+        "male",
+        "anime",
+        "ninja"
+      ]
+    },
+    {
+      "id": "26",
+      "ar": "غوكو",
+      "en": "Goku",
+      "traits": [
+        "male",
+        "anime"
+      ]
+    },
+    {
+      "id": "27",
+      "ar": "لوفي",
+      "en": "Luffy",
+      "traits": [
+        "male",
+        "anime",
+        "pirate"
+      ]
+    },
+    {
+      "id": "28",
+      "ar": "سوبرمان",
+      "en": "Superman",
+      "traits": [
+        "male",
+        "superhero",
+        "dc",
+        "red"
+      ]
+    },
+    {
+      "id": "29",
+      "ar": "باتمان",
+      "en": "Batman",
+      "traits": [
+        "male",
+        "superhero",
+        "dc"
+      ]
+    },
+    {
+      "id": "30",
+      "ar": "سبايدر مان",
+      "en": "Spider-Man",
+      "traits": [
+        "male",
+        "superhero",
+        "marvel",
+        "red"
+      ]
+    },
+    {
+      "id": "31",
+      "ar": "إلسا",
+      "en": "Elsa",
+      "traits": [
+        "magic",
+        "snow"
+      ]
+    },
+    {
+      "id": "32",
+      "ar": "سونيك",
+      "en": "Sonic",
+      "traits": [
+        "male",
+        "game",
+        "animal",
+        "blue"
+      ]
+    },
+    {
+      "id": "33",
+      "ar": "ماريو",
+      "en": "Mario",
+      "traits": [
+        "male",
+        "game",
+        "plumber",
+        "red"
+      ]
+    },
+    {
+      "id": "34",
+      "ar": "لويجي",
+      "en": "Luigi",
+      "traits": [
+        "male",
+        "game",
+        "plumber"
+      ]
+    },
+    {
+      "id": "35",
+      "ar": "ستيف",
+      "en": "Steve",
+      "traits": [
+        "male",
+        "game",
+        "minecraft"
+      ]
+    },
+    {
+      "id": "36",
+      "ar": "كريبر",
+      "en": "Creeper",
+      "traits": [
+        "game",
+        "minecraft"
+      ]
+    },
+    {
+      "id": "37",
+      "ar": "آيرون مان",
+      "en": "Iron Man",
+      "traits": [
+        "male",
+        "superhero",
+        "marvel",
+        "robot",
+        "red"
+      ]
+    },
+    {
+      "id": "38",
+      "ar": "دورايمون",
+      "en": "Doraemon",
+      "traits": [
+        "male",
+        "anime",
+        "robot",
+        "animal",
+        "blue"
+      ]
+    },
+    {
+      "id": "39",
+      "ar": "ميكي ماوس",
+      "en": "Mickey Mouse",
+      "traits": [
+        "male",
+        "animal",
+        "red"
+      ]
+    }
+  ]
+}

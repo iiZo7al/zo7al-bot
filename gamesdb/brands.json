@@ -1,0 +1,150 @@
+[
+  {
+    "ar": "أديداس",
+    "en": "Adidas",
+    "answers": [
+      "أديداس",
+      "Adidas",
+      "اديدس"
+    ],
+    "image": "assets/brands/adidas.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adidas.svg"
+  },
+  {
+    "ar": "أبل",
+    "en": "Apple",
+    "answers": [
+      "أبل",
+      "Apple",
+      "ابل"
+    ],
+    "image": "assets/brands/apple.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg"
+  },
+  {
+    "ar": "ديسكورد",
+    "en": "Discord",
+    "answers": [
+      "ديسكورد",
+      "Discord"
+    ],
+    "image": "assets/brands/discord.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
+  },
+  {
+    "ar": "جيت هب",
+    "en": "GitHub",
+    "answers": [
+      "جيت هب",
+      "GitHub",
+      "قيت هب"
+    ],
+    "image": "assets/brands/github.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+  },
+  {
+    "ar": "ماكدونالدز",
+    "en": "McDonalds",
+    "answers": [
+      "ماكدونالدز",
+      "McDonalds",
+      "McDonald's",
+      "ماك"
+    ],
+    "image": "assets/brands/mcdonalds.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mcdonalds.svg"
+  },
+  {
+    "ar": "نتفليكس",
+    "en": "Netflix",
+    "answers": [
+      "نتفليكس",
+      "Netflix",
+      "نتفلكس"
+    ],
+    "image": "assets/brands/netflix.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netflix.svg"
+  },
+  {
+    "ar": "نايكي",
+    "en": "Nike",
+    "answers": [
+      "نايكي",
+      "Nike"
+    ],
+    "image": "assets/brands/nike.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nike.svg"
+  },
+  {
+    "ar": "بلايستيشن",
+    "en": "PlayStation",
+    "answers": [
+      "بلايستيشن",
+      "PlayStation",
+      "بلاي ستيشن"
+    ],
+    "image": "assets/brands/playstation.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playstation.svg"
+  },
+  {
+    "ar": "روبلوكس",
+    "en": "Roblox",
+    "answers": [
+      "روبلوكس",
+      "Roblox"
+    ],
+    "image": "assets/brands/roblox.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/roblox.svg"
+  },
+  {
+    "ar": "سبوتيفاي",
+    "en": "Spotify",
+    "answers": [
+      "سبوتيفاي",
+      "Spotify"
+    ],
+    "image": "assets/brands/spotify.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg"
+  },
+  {
+    "ar": "ستاربكس",
+    "en": "Starbucks",
+    "answers": [
+      "ستاربكس",
+      "Starbucks"
+    ],
+    "image": "assets/brands/starbucks.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/starbucks.svg"
+  },
+  {
+    "ar": "تيك توك",
+    "en": "TikTok",
+    "answers": [
+      "تيك توك",
+      "TikTok",
+      "تيكتوك"
+    ],
+    "image": "assets/brands/tiktok.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg"
+  },
+  {
+    "ar": "تويتش",
+    "en": "Twitch",
+    "answers": [
+      "تويتش",
+      "Twitch"
+    ],
+    "image": "assets/brands/twitch.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitch.svg"
+  },
+  {
+    "ar": "يوتيوب",
+    "en": "YouTube",
+    "answers": [
+      "يوتيوب",
+      "YouTube"
+    ],
+    "image": "assets/brands/youtube.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg"
+  }
+]

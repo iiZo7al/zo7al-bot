@@ -1,3 +1,7 @@
-npm run build
-
+@echo off
+cd /d "%~dp0"
+call npm ci
+if errorlevel 1 goto end
+call npm run check
+:end
 pause
