@@ -1,49 +1,12 @@
-const { glob } = require("glob");
-const { promisify } = require("util");
-const { Client } = require("discord.js");
-const mongoose = require("mongoose");
-
-const globPromise = promisify(glob);
-
-/**
- * @param {Client} client
- */
-module.exports = async (client) => {
-    // Commands
-    const commandFiles = await globPromise(`${process.cwd()}/commands/**/*.js`);
-    commandFiles.map((value) => {
-        const file = require(value);
-        const splitted = value.split("/");
-        const directory = splitted[splitted.length - 2];
-
-        if (file.name) {
-            const properties = { directory, ...file };
-            client.commands.set(file.name, properties);
-        }
-    });
-
-    // Events
-    const eventFiles = await globPromise(`${process.cwd()}/events/*.js`);
-    eventFiles.map((value) => require(value));
-
-    // Slash Commands
-    const slashCommands = await globPromise(
-        `${process.cwd()}/SlashCommands/*/*.js`
-    );
-
-    const arrayOfSlashCommands = [];
-    slashCommands.map((value) => {
-        const file = require(value);
-        if (!file?.name) return;
-        client.slashCommands.set(file.name, file);
-
-        if (["MESSAGE", "USER"].includes(file.type)) delete file.description;
-        arrayOfSlashCommands.push(file);
-    });
-    client.on("ready", async () => {
-
-        // Register for all the guilds the bot is in
-        await client.application.commands.set(arrayOfSlashCommands);
-    });
-    mongoose.connect(process.env.MONGO).then(() => console.log('Connected to mongodb'));
+'use strict';
+const fs = require('node:fs');
+const path = require('node:path');
+const { commands, slashData } = require('../lib/catalog');
+module.exports = async client => {
+  for (const command of commands) {
+    for (const alias of [command.name, ...command.aliases]) client.commands.set(alias.toLowerCase(), command);
+  }
+  for (const definition of slashData()) client.slashCommands.set(definition.name, commands.find(x => x.name === definition.name || x.aliases.some(a => a.toLowerCase() === definition.name)));
+  const events = path.join(__dirname, '..', 'events');
+  for (const file of fs.readdirSync(events).filter(x => x.endsWith('.js')).sort()) require(path.join(events, file))(client);
 };

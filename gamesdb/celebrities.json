@@ -1,0 +1,245 @@
+[
+  {
+    "ar": "أديل",
+    "en": "Adele",
+    "answers": [
+      "أديل",
+      "Adele",
+      "اديل"
+    ],
+    "image": "assets/celebrities/Adele.jpg",
+    "source": "https://en.wikipedia.org/wiki/Adele",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/330px-Adele_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "ألبرت أينشتاين",
+    "en": "Albert Einstein",
+    "answers": [
+      "ألبرت أينشتاين",
+      "اينشتاين",
+      "Albert Einstein",
+      "Einstein"
+    ],
+    "image": "assets/celebrities/Albert_Einstein.jpg",
+    "source": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "بيلي إيليش",
+    "en": "Billie Eilish",
+    "answers": [
+      "بيلي إيليش",
+      "بيلي ايليش",
+      "Billie Eilish"
+    ],
+    "image": "assets/celebrities/Billie_Eilish.jpg",
+    "source": "https://en.wikipedia.org/wiki/Billie_Eilish",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg/330px-BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "كريستيانو رونالدو",
+    "en": "Cristiano Ronaldo",
+    "answers": [
+      "كريستيانو رونالدو",
+      "رونالدو",
+      "Cristiano Ronaldo",
+      "Ronaldo"
+    ],
+    "image": "assets/celebrities/Cristiano_Ronaldo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/330px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "دواين جونسون",
+    "en": "Dwayne Johnson",
+    "answers": [
+      "دواين جونسون",
+      "ذا روك",
+      "The Rock",
+      "Dwayne Johnson"
+    ],
+    "image": "assets/celebrities/Dwayne_Johnson.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg/330px-Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "إيلون ماسك",
+    "en": "Elon Musk",
+    "answers": [
+      "إيلون ماسك",
+      "Elon Musk",
+      "ايلون ماسك"
+    ],
+    "image": "assets/celebrities/Elon_Musk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg/330px-Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "جاكي شان",
+    "en": "Jackie Chan",
+    "answers": [
+      "جاكي شان",
+      "Jackie Chan"
+    ],
+    "image": "assets/celebrities/Jackie_Chan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jackie_Chan",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jackie_Chan.jpg/330px-Jackie_Chan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "كيليان مبابي",
+    "en": "Kylian Mbappé",
+    "answers": [
+      "كيليان مبابي",
+      "مبابي",
+      "Kylian Mbappe",
+      "Mbappe"
+    ],
+    "image": "assets/celebrities/Kylian_Mbappe.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/330px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "ليونيل ميسي",
+    "en": "Lionel Messi",
+    "answers": [
+      "ليونيل ميسي",
+      "ميسي",
+      "Lionel Messi",
+      "Messi"
+    ],
+    "image": "assets/celebrities/Lionel_Messi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lionel_Messi",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/330px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "مارك زوكربيرغ",
+    "en": "Mark Zuckerberg",
+    "answers": [
+      "مارك زوكربيرغ",
+      "Mark Zuckerberg",
+      "مارك زوكربيرج"
+    ],
+    "image": "assets/celebrities/Mark_Zuckerberg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg/330px-F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "مايكل جوردن",
+    "en": "Michael Jordan",
+    "answers": [
+      "مايكل جوردن",
+      "Michael Jordan",
+      "جوردن"
+    ],
+    "image": "assets/celebrities/Michael_Jordan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Michael_Jordan",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg/330px-Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "محمد صلاح",
+    "en": "Mohamed Salah",
+    "answers": [
+      "محمد صلاح",
+      "Mohamed Salah",
+      "Mo Salah"
+    ],
+    "image": "assets/celebrities/Mohamed_Salah.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_%28cropped%29.jpg/330px-Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "مستر بيست",
+    "en": "MrBeast",
+    "answers": [
+      "مستر بيست",
+      "مستر بيست",
+      "MrBeast",
+      "Mr Beast",
+      "جيمي دونالدسون"
+    ],
+    "image": "assets/celebrities/MrBeast.png",
+    "source": "https://en.wikipedia.org/wiki/MrBeast",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MrBeast_in_2026_%28cropped_4%29.png/330px-MrBeast_in_2026_%28cropped_4%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "نيمار",
+    "en": "Neymar",
+    "answers": [
+      "نيمار",
+      "Neymar",
+      "Neymar Jr"
+    ],
+    "image": "assets/celebrities/Neymar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Neymar",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/330px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "بيو دي باي",
+    "en": "PewDiePie",
+    "answers": [
+      "بيو دي باي",
+      "PewDiePie",
+      "بيوديباي"
+    ],
+    "image": "assets/celebrities/PewDiePie.jpg",
+    "source": "https://en.wikipedia.org/wiki/PewDiePie",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Pewdiepie_head_shot.jpg/330px-Pewdiepie_head_shot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "شاه روخ خان",
+    "en": "Shah Rukh Khan",
+    "answers": [
+      "شاه روخ خان",
+      "شاروخان",
+      "Shah Rukh Khan",
+      "SRK"
+    ],
+    "image": "assets/celebrities/Shah_Rukh_Khan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/330px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "ستيف جوبز",
+    "en": "Steve Jobs",
+    "answers": [
+      "ستيف جوبز",
+      "Steve Jobs"
+    ],
+    "image": "assets/celebrities/Steve_Jobs.jpg",
+    "source": "https://en.wikipedia.org/wiki/Steve_Jobs",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/330px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "تايلور سويفت",
+    "en": "Taylor Swift",
+    "answers": [
+      "تايلور سويفت",
+      "Taylor Swift"
+    ],
+    "image": "assets/celebrities/Taylor_Swift.png",
+    "source": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/330px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "توم كروز",
+    "en": "Tom Cruise",
+    "answers": [
+      "توم كروز",
+      "Tom Cruise"
+    ],
+    "image": "assets/celebrities/Tom_Cruise.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tom_Cruise",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/330px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "ar": "ويل سميث",
+    "en": "Will Smith",
+    "answers": [
+      "ويل سميث",
+      "Will Smith"
+    ],
+    "image": "assets/celebrities/Will_Smith.jpg",
+    "source": "https://en.wikipedia.org/wiki/Will_Smith",
+    "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/330px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]
