@@ -23,7 +23,7 @@ async function start() {
   try {
     await client.store.init();
     await require('./handler')(client);
-    client.on(Events.Error, error => console.error('Zo7al • Discord:', error.message));
+    client.on(Events.Error, error => console.error('Discord:', error.message));
     await client.login(config.token);
   } catch (error) { client.destroy(); await client.store.close(); throw error; }
   let health;
@@ -32,7 +32,7 @@ async function start() {
       res.writeHead(client.isReady() ? 200 : 503, { 'Content-Type': 'application/json' });
       res.end(JSON.stringify({ name:'Zo7al', ready:client.isReady() }));
     }).listen(healthPort, '0.0.0.0');
-    health.on('error', error => console.error('Zo7al • Health endpoint:', error.message));
+    health.on('error', error => console.error('Health endpoint:', error.message));
   }
   let closing = false;
   const shutdown = async () => {
@@ -45,7 +45,7 @@ async function start() {
 }
 if (require.main === module) start().catch(error => {
   // Log short errors rather than whole HTTP requests (which may contain credentials).
-  console.error('Zo7al • Startup failed:', error.message);
+  console.error('Startup failed:', error.message);
   if (error.code === 4014 || /disallowed intents/i.test(error.message)) console.error('Enable MESSAGE CONTENT INTENT under Developer Portal > Bot.');
   process.exitCode = 1;
 });
