@@ -3,7 +3,7 @@ const { Events, ActivityType } = require('discord.js');
 const { slashData } = require('../lib/catalog');
 module.exports = client => client.once(Events.ClientReady, async () => {
   console.log(`${client.user.tag} ready • 24 games.`);
-  client.user.setPresence({ activities:[{ name:'/help • Zo7al Games', type:ActivityType.Playing }], status:'online' });
+  client.user.setPresence({ activities:[{ name:'/help', type:ActivityType.Playing }], status:'idle' });
   if (!client.config.registerCommands) return;
   try {
     const definitions = slashData();
